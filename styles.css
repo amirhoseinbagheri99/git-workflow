@@ -1,7 +1,9 @@
 :root {
   --primary: #151726;
+  --text: #ffffff;
 }
 
 body {
   background-color: var(--primary);
+  color: var(--text);
 }
